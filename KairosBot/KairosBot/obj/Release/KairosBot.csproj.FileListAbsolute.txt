@@ -1,0 +1,11 @@
+D:\Kairos\KairosBot\KairosBot\bin\Release\KairosBot.exe.config
+D:\Kairos\KairosBot\KairosBot\bin\Release\KairosBot.exe
+D:\Kairos\KairosBot\KairosBot\bin\Release\KairosBot.pdb
+D:\Kairos\KairosBot\KairosBot\bin\Release\Newtonsoft.Json.dll
+D:\Kairos\KairosBot\KairosBot\bin\Release\Newtonsoft.Json.xml
+D:\Kairos\KairosBot\KairosBot\obj\Release\KairosBot.Form1.resources
+D:\Kairos\KairosBot\KairosBot\obj\Release\KairosBot.Properties.Resources.resources
+D:\Kairos\KairosBot\KairosBot\obj\Release\KairosBot.csproj.GenerateResource.Cache
+D:\Kairos\KairosBot\KairosBot\obj\Release\KairosBot.csproj.CoreCompileInputs.cache
+D:\Kairos\KairosBot\KairosBot\obj\Release\KairosBot.exe
+D:\Kairos\KairosBot\KairosBot\obj\Release\KairosBot.pdb
